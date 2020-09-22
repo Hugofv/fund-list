@@ -1,0 +1,12 @@
+.btn {
+  margin: 0 !important;
+  background: $color-neutral !important;
+  border-radius: .3rem !important;
+  color: $color-text !important;
+  font-weight: bold;
+
+  &.primary {
+    background: $color-primary-default !important;
+    color: $color-neutral !important;
+  }
+}
